@@ -33,9 +33,9 @@ Neural Style Transfer (NST) is an advanced deep learning technique that enables 
 - PIL (Pillow): For image processing and transformations.
 
 ## Implementation
-<img width="1320" alt="Screenshot 2025-01-10 at 5 38 19 PM" src="https://github.com/user-attachments/assets/ec569fdd-f8b0-4528-8b49-452c1d9e7144" />
-<img width="1659" alt="Screenshot 2025-01-10 at 5 37 58 PM" src="https://github.com/user-attachments/assets/bba7d125-7df8-4e51-a6aa-0454bf0493b3" />
 <img width="1655" alt="Screenshot 2025-01-10 at 5 37 35 PM" src="https://github.com/user-attachments/assets/d3214316-eb64-48ef-93cf-520ee5979522" />
+<img width="1659" alt="Screenshot 2025-01-10 at 5 37 58 PM" src="https://github.com/user-attachments/assets/bba7d125-7df8-4e51-a6aa-0454bf0493b3" />
+<img width="1320" alt="Screenshot 2025-01-10 at 5 38 19 PM" src="https://github.com/user-attachments/assets/ec569fdd-f8b0-4528-8b49-452c1d9e7144" />
 
 ## Conclusion
 Neural Style Transfer is a powerful demonstration of the capabilities of deep learning in the field of computer vision. By leveraging pretrained convolutional networks, the algorithm seamlessly combines the content of one image with the style of another to create stunning results. The project showcases the potential of machine learning to augment human creativity and redefine artistic expression. With further optimization and scalability, Neural Style Transfer can revolutionize industries like graphic design, entertainment, and augmented reality. The implemented model is highly flexible, efficient, and capable of producing visually appealing results. By refining its computational efficiency and enhancing user interactivity, this technology can continue to be a valuable tool for artists, designers, and developers alike.
